@@ -24,6 +24,6 @@ enum ConstantsDexcomG5 {
     static let maxUnSentCalibrationAge = TimeInterval(minutes: 5)
     
     /// how many days the sensor session lasts
-    static let maxSensorAgeInDays: Double = 10.0
+    static let maxSensorAgeInDays: Double = 25.0
     
 }
